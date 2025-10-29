@@ -1,0 +1,25 @@
+{
+  "name": "jibrin-bakura-musa-portfolio",
+  "version": "1.0.0",
+  "description": "Personal portfolio website of Jibrin Bakura Musa — Computer Science student and Blockchain Developer passionate about Web3, Smart Contracts, and Decentralized Technology.",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server",
+    "build": "echo 'No build step required — static files only.'"
+  },
+  "keywords": [
+    "portfolio",
+    "blockchain",
+    "web3",
+    "developer",
+    "smart-contracts",
+    "jibrin-bakura-musa",
+    "nigerian-tech"
+  ],
+  "author": "Jibrin Bakura Musa",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
